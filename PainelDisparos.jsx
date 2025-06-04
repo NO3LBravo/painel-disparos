@@ -1,0 +1,1 @@
+export default function PainelDisparos() { return <div>Painel</div>; }
